@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 433212478
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: weapon
+      Dependencies:
+        Dependency_0: shader
+    Info_1:
+      Name: shader
+      Dependencies: {}
+    Info_2:
+      Name: effect
+      Dependencies:
+        Dependency_0: shader
