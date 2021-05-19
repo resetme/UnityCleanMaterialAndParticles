@@ -6,7 +6,7 @@ using System;
 using System.IO;
 using Object = UnityEngine.Object;
 
-namespace UnityTAUtils
+namespace UnityUtils
 {
 	public class ForceMissingMaterialEditor : Editor
 	{
